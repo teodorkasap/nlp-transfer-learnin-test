@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.pt
+pre-cleaned_consolidated_tweet_data.csv
+.vscode/settings.json
+spamdata_v2.txt
