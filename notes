@@ -1,0 +1,11 @@
+using sigmoid function gave bad results
+the tutorial I followed for notebook2 and notebook1 used softmax with dim=1, 
+I found this odd, given that this function usually is used for multi class classi-
+fication problems.
+
+some other tutorials, which might be worth looking into 
+https://towardsdatascience.com/bert-text-classification-using-pytorch-723dfb8b6b5b
+https://medium.com/@aniruddha.choudhury94/part-2-bert-fine-tuning-tutorial-with-pytorch-for-text-classification-on-the-corpus-of-linguistic-18057ce330e1
+https://github.com/aniruddhachoudhury/BERT-Tutorials/blob/master/Blog%202/BERT_Fine_Tuning_Sentence_Classification.ipynb
+https://github.com/aniruddhachoudhury/BERT-Tutorials
+
